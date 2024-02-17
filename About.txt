@@ -1,0 +1,3 @@
+This Python project is used to track location using phone numbers.
+Country location of phone number, operator name of phone number and map location can be used by using this project.
+Note: Using normal api key(opencage) does not show the correct location.
